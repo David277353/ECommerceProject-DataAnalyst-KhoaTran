@@ -101,7 +101,7 @@ January 2026 – February 2026
 ## 👤 Author
 
 **Khoa (David) Tran**
-Data Analyst | SQL · BigQuery · Power BI · Python · Tableau
+Data Analyst | SQL · BigQuery · Power BI · Python 
 [LinkedIn](https://www.linkedin.com/in/khoatran-da) · [GitHub](https://github.com/David277353)
 
 ---
